@@ -12,11 +12,10 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 Every product or feature goes through a set of release phases, from early testing to general availability.
 
-* development: Primarily for testing and feedback. Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
-
-* beta: Beta staging is currently not available but will be provided in the near future.
-
-* production: Generally available to all customers. Ready for production use.
+* design: The feature is still in the functional and technical design process
+* development: Primarily for testing and feedback. Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided
+* beta: Beta staging is currently not available but will be provided in the near future
+* production: Generally available to all customers. Ready for production use
 
 # Roadmap stages
 
