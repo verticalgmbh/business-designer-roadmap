@@ -29,7 +29,9 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 The following is a list of our current product areas:
 
 * **customer**: Features for all customers which are using the product
+
 * **product-management**: Features which are targeting the product management for the marketplace. Customers mostly benefit indirectly from these improvments
+
 * **product-lifecycle**: Features which improve or change the lifecycle management of services
 
 # Disclaimer
