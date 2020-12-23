@@ -1,5 +1,5 @@
 # BusinessDesigner roadmap
-In this repository, you can find the official [vertical BusinessDesigner public product roadmap](https://github.com/verticalgmbh/business-designer-roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via the Share feedback page.
+In this repository, you can find the official [vertical BusinessDesigner public product roadmap](https://github.com/verticalgmbh/business-designer-roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. 
 
 # Code of Conduct
 This repository is used for the public roadmap only and therefore should not be used to open new discussions or create new issues regarding the business-designer. Discussions and questions on exisiting roadmap items are welcome but if you want to report an issue or you have a question regarding the product please use the following repository-page instead:
