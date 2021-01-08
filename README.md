@@ -1,10 +1,10 @@
-# BusinessDesigner roadmap
-In this repository, you can find the official [vertical BusinessDesigner public product roadmap](https://github.com/verticalgmbh/business-designer-roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. 
+# vertical app roadmap
+In this repository, you can find the official [vertical app public product roadmap](https://github.com/verticalgmbh/vertical-app-roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. 
 
 # Code of Conduct
-This repository is used for the public roadmap only and therefore should not be used to open new discussions or create new issues regarding the business-designer. Discussions and questions on exisiting roadmap items are welcome but if you want to report an issue or you have a question regarding the product please use the following repository-page instead:
+This repository is used for the public roadmap only and therefore should not be used to open new discussions or create new issues regarding the vertical-app. Discussions and questions on exisiting roadmap items are welcome but if you want to report an issue or you have a question regarding the product or want to place a feature request please use the following repository-page instead:
 
-* [vertical BusinessDesigner public issue project](https://github.com/verticalgmbh/business-designer-public)
+* [vertical app public issue project](https://github.com/verticalgmbh/vertical-app)
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
