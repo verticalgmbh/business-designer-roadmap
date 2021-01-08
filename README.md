@@ -4,7 +4,7 @@ In this repository, you can find the official [vertical app public product roadm
 # Code of Conduct
 This repository is used for the public roadmap only and therefore should not be used to open new discussions or create new issues regarding the vertical-app. Discussions and questions on exisiting roadmap items are welcome but if you want to report an issue or you have a question regarding the product or want to place a feature request please use the following repository-page instead:
 
-* [vertical app public issue project](https://github.com/verticalgmbh/vertical-app)
+* [vertical app public issue repo](https://github.com/verticalgmbh/vertical-app)
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
